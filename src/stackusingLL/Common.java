@@ -35,4 +35,9 @@ public class Common implements ICommon {
 	        }
 	    }
 
+		public int dequeue() {
+			// TODO Auto-generated method stub
+			return 0;
+		}
+
 }
